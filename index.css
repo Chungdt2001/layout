@@ -1,0 +1,84 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.our-menu{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.chicken-layout {
+    border-style: solid;       
+    background-color: #999999;
+    padding: 10px;
+
+
+    
+}
+.chicken-title{
+    background-color: #d89799;
+    border-style: solid ;  
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+    margin:0px;
+    padding:0px;
+    margin-left: auto;
+    border-right: none !important;   
+}
+.c-recipe{
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+
+
+.beef-layout {
+    border-style: solid;       
+    background-color: #999999;
+    padding: 10px;
+    
+    
+
+}
+.beef-title{
+    background-color: #c14543;
+    border-style: solid ;  
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+    margin:0px;
+    padding:0px;
+    margin-left: auto;
+    border-right: none !important;   
+}
+.b-recipe{
+    padding: 10px;
+    font-weight: bold;
+}
+.sushi-layout {
+    border-style: solid;       
+    background-color: #999999;
+    padding: 10px;
+
+    
+}
+.sushi-title{
+    background-color: #e5d099;
+    border-style: solid ;  
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+    margin:0px;
+    padding:0px;
+    margin-left: auto;
+    border-right: none !important;   
+}
+.s-recipe{
+    padding: 10px;
+    font-weight: bold;
+}
+.row{
+    column-gap: 1;
+}
+
